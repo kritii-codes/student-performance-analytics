@@ -57,4 +57,4 @@ were resolved, and what was learned about Python, NumPy, Pandas,
 functions, loops, conditions and CSV files.
 
 ## 10. GitHub Repository
-Repository URL: [Add your GitHub repository URL here]
+Repository URL: [https://github.com/kritii-codes/student-performance-analytics]
